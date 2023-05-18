@@ -1,1 +1,3 @@
-# compbio_resources_chatomics
+# Resources curated by Tommy Tang
+
+
