@@ -1,7 +1,6 @@
 # Resources written by Ming 'Tommy' Tang.
 
-###  Watch my youtube channel chatomics to learn more https://www.youtube.com/channel/UC0DNFLi8yg1UVo67bCLMMJg and my personal website 
-https://divingintogeneticsandgenomics.com/
+**Watch my youtube channel chatomics to learn more https://www.youtube.com/channel/UC0DNFLi8yg1UVo67bCLMMJg and my personal website https://divingintogeneticsandgenomics.com/**
 
 * [Six esssential awk Lessons for computational biologist](https://github.com/crazyhottommy/compbio_resources_chatomics/blob/main/awk_compbio.pdf)
 
