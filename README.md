@@ -5,3 +5,5 @@
 * [Six esssential awk Lessons for computational biologist](https://github.com/crazyhottommy/compbio_resources_chatomics/blob/main/awk_compbio.pdf)
 
 * [From zero to hero: Six steps to learn computational biology](https://github.com/crazyhottommy/compbio_resources_chatomics/blob/main/Six_steps_to_learn_compbio.pdf)
+
+* [top computational biology resources](https://github.com/crazyhottommy/compbio_resources_chatomics/blob/main/top_compbio_resources.pdf) Over 100 links curated for you!
